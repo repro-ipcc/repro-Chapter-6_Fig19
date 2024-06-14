@@ -1,6 +1,16 @@
-# ipcc-ar6-wg1-figure Chapter 6 Figure 19
+# ipcc-ar6-wg1-figure Chapter 6 Figure 18&19
 
+Figure 18
 
+| Input | Running | Output | Quality | Post-process |
+|-------|---------|--------|---------|--------------|
+| ![Code](https://img.shields.io/badge/Code-Complete-green) <br> ![Dependence](https://img.shields.io/badge/Dependence-Complete-green) <br> ![Data](https://img.shields.io/badge/Data-Complete-green) | ![Running](https://img.shields.io/badge/Running-green) | ![Partial](https://img.shields.io/badge/1/1-Full-green) | ![Similar](https://img.shields.io/badge/1/1-Same-green) | ![Auto](https://img.shields.io/badge/Auto-orange) ![Manual](https://img.shields.io/badge/Manual-orange) |
+
+Figure 19
+
+| Input | Running | Output | Quality | Post-process |
+|-------|---------|--------|---------|--------------|
+| ![Code](https://img.shields.io/badge/Code-Complete-green) <br> ![Dependence](https://img.shields.io/badge/Dependence-Complete-green) <br> ![Data](https://img.shields.io/badge/Data-Complete-green) | ![Running](https://img.shields.io/badge/Running-green) | ![Partial](https://img.shields.io/badge/1/1-Full-green) | ![Similar](https://img.shields.io/badge/1/1-Same-green) | ![Auto](https://img.shields.io/badge/Auto-orange) ![Manual](https://img.shields.io/badge/Manual-orange) |
 
 Project to re-create the IPCC AR6 WG1 figures. See https://ipcc.ch and https://github.com/IPCC-WG1
 
